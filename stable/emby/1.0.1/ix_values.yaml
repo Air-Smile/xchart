@@ -1,4 +1,4 @@
 image:
   pullPolicy: IfNotPresent
   repository: xinjiawei1/emby_unlockd
-  tag: 4.7.11.0
+  tag: v4.7.11.0@sha256:94b82a6414a56b2576d000a73a6e27bf39a4ff28384b39d3d0d925e5c9407fc4
