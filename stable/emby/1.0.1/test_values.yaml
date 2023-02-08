@@ -15,5 +15,5 @@ hostNetwork: false
 image:
   pullPolicy: IfNotPresent
   repository: xinjiawei1/emby_unlockd
-  tag: v4.7.11.0
+  tag: 4.7.11.0
 updateStrategy: Recreate
